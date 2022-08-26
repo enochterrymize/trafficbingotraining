@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Traffic Bingo Training',
-  tagline: 'Traffic Blueprint',
+  title: 'Welcome To Your 'Traffic Bingo' Training',
+  tagline: 'Reaveled Traffic Blueprint ',
   url: 'https://trafficbingo.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Traffic Bingo Training',
+        title: 'Traffic Bingo',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}'TrafficBingo' Training. Traning by Enoch George.`,
       },
       prism: {
         theme: lightCodeTheme,
