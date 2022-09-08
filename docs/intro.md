@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Traffic Secrets
+# Traffic Secrets Overview
 
 Let's discover **If you can follow the blueprint, you can generate 10x traffic.**
 
