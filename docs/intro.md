@@ -7,38 +7,25 @@ sidebar_position: 1
 Let's discover **If you can follow the blueprint, you can generate 10x traffic.**
 
 ### 6 Big Website Traffic Tactics Explained
+  - When it comes to getting website traffic you've got to figure out where your potential audience is and use the right traffic tactics to get in front of them in those places..
 
+### 6 Old Website Traffic Tactics That Still
+  - 6 "old" traffic tactics that you can use to advertise your business and drive traffic into it:
+  
+ ### 7 Steps To Getting Started With SEO For Website Traffic
+   - Search engine optimization (SEO) has been a tactic that has been used for decades now. 
 
-### What you'll need
+### Do You Have A Business Foundation For All That Website Traffic?
+  - When you're getting started with website traffic the first thing you need to make sure of is that you have setup a good business foundation and ensure that business foundation works to do what you want it to do. 
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### How To Create A Content Marketing Strategy To Get Website Traffic
+  - Content marketing is quite the buzz word, but it's one of the best marketing strategies out there and there are many ways to do it. 
 
-## Generate a new site
+### How To Create A Website Traffic Plan For Your Business
+  - Your business is all setup and ready for traffic. You're ready to get to the part where you start getting website traffic and start making sales (or getting subscribers, downloads, etc.). 
 
-Generate a new Docusaurus site using the **classic template**.
+### How To Get Started With Using Paid Website Traffic
+- Paid traffic is hands down the fastest way to get traffic. 
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 5 SEO Tools to Improve Your Rankings
+- The right tools will save you a ton of time and be able to dig out data that would take you ages to compile and collate. Considering that things online change rapidly, by the time you're done compiling your data, it might be outdated.
