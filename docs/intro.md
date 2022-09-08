@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Traffic Secrets: 
+# Traffic Secrets
 
 Let's discover **If you can follow the blueprint, you can generate 10x traffic.**
 
@@ -12,7 +12,7 @@ Let's discover **If you can follow the blueprint, you can generate 10x traffic.*
 ### 6 Old Website Traffic Tactics That Still
   - 6 "old" traffic tactics that you can use to advertise your business and drive traffic into it:
   
- ### 7 Steps To Getting Started With SEO For Website Traffic
+### 7 Steps To Getting Started With SEO For Website Traffic
    - Search engine optimization (SEO) has been a tactic that has been used for decades now. 
 
 ### Do You Have A Business Foundation For All That Website Traffic?
