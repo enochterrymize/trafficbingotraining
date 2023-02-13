@@ -70,6 +70,12 @@ const config = {
             label: 'Tutorial',
           },
           {
+            type: 'doc',
+            docId: 'vol1',
+            position: 'left',
+            label: 'Free Traffic from Shorts and Reels',
+          },
+          {
             to: '/markdown-page',
             docId: 'intro',
             position: 'left',
