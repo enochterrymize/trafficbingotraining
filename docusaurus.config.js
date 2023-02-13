@@ -69,6 +69,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            to: '/markdown-page',
+            docId: 'intro',
+            position: 'left',
+            label: 'Vol.1',
+          },
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
             href: 'https://buildbusiness.online',
