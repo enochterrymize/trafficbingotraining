@@ -71,7 +71,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'vol1/vol1',
+            docId: '/vol1',
             position: 'left',
             label: 'Shorts and Reels Guide',
           },
