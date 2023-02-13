@@ -71,15 +71,15 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'vol1',
+            docId: 'vol1/vol1',
             position: 'left',
-            label: 'Free Traffic from Shorts and Reels',
+            label: 'Shorts and Reels Guide',
           },
           {
             to: '/markdown-page',
             docId: 'intro',
             position: 'left',
-            label: 'Vol.1',
+            label: 'Page Sample',
           },
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
