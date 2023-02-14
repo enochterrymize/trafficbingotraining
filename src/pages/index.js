@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import HomepageProducts from '@site/src/components/HomepageProducts';
+
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -34,8 +34,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
-        <HomepageProducts />
+      <HomepageFeatures/>
       </main>
     </Layout>
   );
