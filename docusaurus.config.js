@@ -70,7 +70,12 @@ const config = {
             label: 'Training',
           },
          /*  {to: '/blog', label: 'Blog', position: 'left'}, */
-          {
+         {
+          href: 'https://www.facebook.com/groups/traffictipsandsecretstraffictoolsandoproducts',
+          label: 'Join the 10X Traffic Group',
+          position: 'right',
+        }, 
+         {
             href: 'https://buildbusiness.online',
             label: 'Support',
             position: 'right',
