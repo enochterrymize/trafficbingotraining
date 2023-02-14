@@ -3,6 +3,7 @@ sidebar_position: 4
 ---
 
 # 6 Evergreen Traffic Strategies that still works 
+
 January 1, 1983, is considered the official birthday of the Internet, but it didn't become popular until the mid to late 90s. At the time of this writing, it's 2022, so we can safely say for over 25 years now people have been using the Internet mostly as it's seen today. I bet your mind instantly started making that old "dial up" internet connection noise and you cringed. If you don't know what I'm talking about be thankful for your youth.
 
 As soon as the Internet became mainstream advertising tactics on it began, and since then we have come a very long way. It's said that banner ads were the first form of Internet ads, but I remember the days of classified ad sites and message boards that predate banner ads, so I'm going to say these were the first forms of advertising. And while a lot of things have changed with technology there are still some "old ways" of advertising that still work to this day, and I highly recommend that you incorporate them into your business. I mean if it's not broke, don't fix it, right?
