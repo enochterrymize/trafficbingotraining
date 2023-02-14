@@ -79,7 +79,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()}'TrafficBingo' Training. Traning by Enoch George.`,
+        copyright: `Copyright © ${new Date().getFullYear()}'TrafficBingo' Training by Enoch George.`,
       },
       prism: {
         theme: lightCodeTheme,
