@@ -1,7 +1,12 @@
 ---
 sidebar_position: 1
 ---
-# Members Area
+
+# Traffic Bingo Members Area 
+
+Let's discover **If you can follow the blueprint, you can generate 10x traffic.**
+
+
 ## Thank You for Purchasing the Guide!
 
 ![Traffic Bingo Logo](https://trafficbingoassets.s3.us-east-2.amazonaws.com/trafficbingologo.png)
