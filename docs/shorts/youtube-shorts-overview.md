@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 ---
+# FREE Traffic from YouTube Shorts
+
 ![YouTube Shorts Guide](https://trafficbingoassets.s3.us-east-2.amazonaws.com/youtubeshortsbook.png)
 
 Are you ready to take your content creation to the next level and achieve your goals on YouTube? Look no further than 1-1 coaching with Enoch George. In this personalized coaching call, I will reveal the action steps and provide the guidance you need to make your dreams a reality.
