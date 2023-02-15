@@ -86,9 +86,11 @@ In the next chapter, we will explain how to create your first YouTube Short…
 ![1-1 Coaching with Enoch George](https://trafficbingoassets.s3.us-east-2.amazonaws.com/enochgeorge120x120.jpeg)
 
 To your Success, 
+
 #### [Book A Call with Enoch George](https://buildbusiness.online/courses/youtube-secrets/)  
 
+P.S. If you have problem to access your eBook(Training) you can reach me at support@enochgeorge.com
 
-Are you struggling to take action on what you've learned from this guide? Or are you stuck somewhere technically and in need of expert guidance? Don't let these challenges hold you back any longer! Book a call with Enoch George and get the help you need to move forward with confidence.
+P.P.S. Are you struggling to take action on what you've learned from this guide? Or are you stuck somewhere technically and in need guidance? Book a 1-1 call with Enoch George and get the help you need to move forward with confidence.
 
 Investing in 1-1 coaching with me is an investment in yourself and your future success. Book your coaching call today and let's make your Online Business goals a reality!
