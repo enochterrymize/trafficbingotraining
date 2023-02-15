@@ -3,7 +3,26 @@ sidebar_position: 1
 ---
 ![YouTube Shorts Guide](https://trafficbingoassets.s3.us-east-2.amazonaws.com/youtubeshortsbook.png)
 
-# [Click Here to Purchase the YouTube Shorts Video Course](https://buildbusiness.online/courses/youtube-secrets/)      
+# [Click Here to Purchase the YouTube Shorts Video Course](https://buildbusiness.online/courses/youtube-secrets/)  
+
+
+# Table of Contents
+
+- [Click Here to Purchase the YouTube Shorts Video Course](#click-here-to-purchase-the-youtube-shorts-video-course)
+- [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [What are YouTube Shorts](#what-are-youtube-shorts)
+  - [The Benefits of Creating YouTube Shorts](#the-benefits-of-creating-youtube-shorts)
+
+## Introduction
+This is the introduction.
+
+## What are YouTube Shorts
+This is the first section.
+
+## The Benefits of Creating YouTube Shorts
+This is the second section.
+
 
 Social media is something that almost all of us use now days on a daily basis. I was looking at some statistics today about the use of social media and I was blown away with what I found. Here are just a few of my findings:
 
@@ -64,6 +83,5 @@ I know I've just poured a lot of information on you so, to help you put this all
 Start by opening up a spreadsheet that you can note down all of the data that you find. Then, I highly recommend you start with some deep demographic research on each social media network. Also start searching all social media sites for words that your targeted audience would be using. This will allow you to truly see if your target audience is on any one social media platform. The more people you find that would be a good fit for your targeted audience on any on social network is a huge indicator you should use that social network.  
 
 Now of course your next steps are going to be going and actually using the social media networks that are right for your business. Just keep in mind all the other points I've made here and your journey in social media marketing should be very profitable!  
-
 
 
