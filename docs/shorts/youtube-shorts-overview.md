@@ -11,5 +11,4 @@ With years of experience as a successful content creator and YouTube expert, I h
 
 Investing in 1-1 coaching with me is an investment in yourself and your future success. Don't let the opportunity to work with a YouTube expert pass you by. Book your coaching call today and let's make your YouTube goals a reality!
 
-# [Click Here to Book A Call](https://buildbusiness.online/courses/youtube-secrets/)  
 
