@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+# Members Area
 ## Thank You for Purchasing the Guide!
 
 ![Traffic Bingo Logo](https://trafficbingoassets.s3.us-east-2.amazonaws.com/trafficbingologo.png)

@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Training',
+            label: 'Members Area',
           },
          /*  {to: '/blog', label: 'Blog', position: 'left'}, */
          {
