@@ -10,7 +10,7 @@ We have worked hard to provide you with everything that you need to know to beco
 
 
 
-![1-1 Coaching with Enoch George](https://trafficbingoassets.s3.us-east-2.amazonaws.com/enochgeorge.jpeg)
+![1-1 Coaching with Enoch George](https://trafficbingoassets.s3.us-east-2.amazonaws.com/enochgeorge150x150.jpeg)
 
 To your Success
 ### Enoch George
