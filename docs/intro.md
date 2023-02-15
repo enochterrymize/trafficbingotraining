@@ -28,3 +28,4 @@ P.P.S. Are you struggling to take action on what you've learned from this guide?
 
 Investing in 1-1 coaching with me is an investment in yourself and your future success. Book your coaching call today and let's make your Online Business goals a reality!
 
+#### [1-1 Coaching with Enoch George](https://buildbusiness.online/courses/youtube-secrets/)  
