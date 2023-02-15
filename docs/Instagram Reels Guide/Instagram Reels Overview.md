@@ -9,7 +9,8 @@ With years of experience as a successful content creator and YouTube expert, I h
 
 ![1-1 Coaching with Enoch George](https://trafficbingoassets.s3.us-east-2.amazonaws.com/11+coaching+with+enoch+george.png)
 
+[![1-1 Coaching with Enoch George](https://trafficbingoassets.s3.us-east-2.amazonaws.com/11+coaching+with+enoch+george.png)](https://buildbusiness.online/courses/youtube-secrets/)
+
 Investing in 1-1 coaching with me is an investment in yourself and your future success. Don't let the opportunity to work with a YouTube expert pass you by. Book your coaching call today and let's make your YouTube goals a reality!
 
-# [Book A Call with Enoch George](https://buildbusiness.online/courses/youtube-secrets/)  
 
