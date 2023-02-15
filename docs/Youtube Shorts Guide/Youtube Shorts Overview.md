@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 ![YouTube Shorts Guide](https://trafficbingoassets.s3.us-east-2.amazonaws.com/youtubeshortsbook.png)
 
-# The Top Social Media Sites That Are Best For Getting Website Traffic
+# [YouTube Shorts Video Course](https://buildbusiness.online/courses/youtube-secrets/)      
 
 Social media is something that almost all of us use now days on a daily basis. I was looking at some statistics today about the use of social media and I was blown away with what I found. Here are just a few of my findings:
 
